@@ -39,7 +39,7 @@ Instructions on how to install *TheFatRat*
 ```bash
 git clone https://github.com/Screetsec/TheFatRat.git
 cd TheFatRat
-chmod +x setup.sh && ./setup.sh
+chmod +x setup.sh && sudo ./setup.sh
 ```
 ### Update 
 ```bash
@@ -53,7 +53,7 @@ and will also provide you a solution for the problem
 ```
 cd TheFatRat
 chmod +x chk_tools 
-./chk_tools
+sudo ./chk_tools
 ```
 
 ## Tools Overview
